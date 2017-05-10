@@ -27,8 +27,7 @@
       "repo": {
         "name": "opus_unpack"
       },
-      "glob": "/*",
-      "runEmpty": true
+      "glob": "/*"
     }
   ]
 }
